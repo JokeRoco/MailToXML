@@ -1,2 +1,2 @@
 # MailToXML
-.exe File created of various .py-fyles to generate a .xml file from an outlook-mail
+Created an exe file from those .py files to let it run on more devices
